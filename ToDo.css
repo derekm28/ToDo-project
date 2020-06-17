@@ -1,0 +1,8 @@
+.Todo:hover {
+    background-color: lightblue;
+}
+
+.completed {
+    color: green;
+    text-decoration: line-through;
+}
